@@ -2,7 +2,7 @@ i<form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning March 05 2023</h1>
 
-    "<p>Please fill in this form to create an account.</p>
+    "<p>Please fill in this form to create an account for March session.</p>
     <hr>
      
     <label for="Name"><b>Enter Name please</b></label>
