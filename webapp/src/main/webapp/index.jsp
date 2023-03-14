@@ -3,9 +3,10 @@ i<form action="action_page.php">
     <h1>New user Register for DevOps Learning March 05 2023</h1>
 
     "<p>Please fill in this form to create an account for March session1.</p>
+
     <hr>
      
-    <label for="Name"><b>Enter Name please</b></label>
+    <label for="Name"><b>Enter full Name please</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br> 
     
